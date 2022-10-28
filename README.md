@@ -1,4 +1,4 @@
-# Gravetool
+# Gravetool Version 1.2
 Discord Nuking Tool
 
 
