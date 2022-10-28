@@ -67,7 +67,7 @@ if choice=="1":
             pass
       print("Banned every Member!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
             
           
    client.run(bottoken)
@@ -87,7 +87,7 @@ if choice=="2":
             pass
       print("Kicked every Member!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
             
           
    client.run(bottoken)
@@ -107,7 +107,7 @@ if choice=="3":
             pass
       print("All Channels got deleted!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
             
           
    client.run(bottoken)
@@ -127,7 +127,7 @@ if choice=="4":
             pass
       print("All Roles got deleted!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
    client.run(bottoken)
    
 if choice=="5":
@@ -141,7 +141,7 @@ if choice=="5":
          await guild.create_text_channel('Invalid Yuki on Top!')
       print("Channels got created")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
    client.run(bottoken)
    
 if choice=="6":
@@ -155,7 +155,7 @@ if choice=="6":
          await guild.create_role(name="Yuki on Top!")
       print("Roles got created")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
    client.run(bottoken)
   
 if choice=="7":
@@ -194,7 +194,7 @@ if choice=="7":
             pass
       print("Server got nuked!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
    client.run(bottoken)
    
 if choice=="8":
@@ -216,7 +216,7 @@ if choice=="8":
             pass
       print("Finished with mass dm!")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
    client.run(bottoken)
    
 if choice == "9":
@@ -231,7 +231,7 @@ if choice == "9":
          webhook.send(spammessagewebhook)
       print("Finished spamming")
       time.sleep(5)
-      os.system("python 123.py")
+      os.system("gravetool.py")
 if choice == "09":
       print(colorama.Fore.RED+"["+colorama.Fore.WHITE+"!"+colorama.Fore.RED+"] "+colorama.Fore.WHITE+"Enter your webhook: ")
       webhook=input()
@@ -244,23 +244,23 @@ if choice == "09":
          webhook.send(spammessagewebhook)
       print("Finished spamming")
       time.sleep(5)
-      os.system("python 123.py")  
+      os.system("gravetool.py")  
         
 if choice == "10":
    webbrowser.open('https://github.com/HotXfudge') 
    time.sleep(5)
-   os.system("python 123.py")
+   os.system("gravetool.py")
 
 
 if choice == "11":
    webbrowser.open('https://twitter.com/hotxfudge8') 
    time.sleep(5)
-   os.system("python 123.py")   
+   os.system("gravetool.py")   
    
 if choice == "12":
    webbrowser.open('https://discord.gg/2N6xu3cFCk') 
    time.sleep(5)
-   os.system("python 123.py") 
+   os.system("gravetool.py") 
    
    
 
